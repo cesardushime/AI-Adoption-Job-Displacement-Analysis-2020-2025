@@ -31,6 +31,7 @@ Leveraging data visualization and analysis techniques in Python, this repository
 plot_country_ai_adoption(df, 'USA')  # AI adoption trends by industry in the USA
 industry_jobloss(df, ['Healthcare', 'Finance'])  # Job loss trends in key industries
 country_jobloss(df, ['Japan', 'Germany'])  # Country-wise job loss trends
+ai_adoption_map_by_year(df, 2022) # Generates a map of all countries and AI adoption rate in a specific year/ all years if no year specified.
 ```
 
 ---
